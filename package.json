@@ -1,0 +1,23 @@
+{
+  "name": "bigalerts",
+  "version": "1.0.0",
+  "description": "A full-page alert library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alert",
+    "full-page",
+    "notification",
+    "animate.css"
+  ],
+  "author": "kkevinchoo",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "animate.css": "^4.1.1"
+  }
+}
