@@ -1,5 +1,3 @@
-// Full-page Alert Library
-
 import 'animate.css';
 
 class FullPageAlert {
@@ -40,3 +38,5 @@ class FullPageAlert {
     }, this.autoHideDuration);
   }
 }
+
+export default FullPageAlert;
